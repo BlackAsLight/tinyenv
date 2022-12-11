@@ -10,7 +10,7 @@ potato=5
 
 ### main.ts
 ```ts
-import 'https://deno.land/x/tinyenv@v0.0.0/mod.ts'
+import 'https://deno.land/x/tinyenv@v0.1.0/mod.ts'
 
 console.log(Deno.env.get('potato'))
 ```
